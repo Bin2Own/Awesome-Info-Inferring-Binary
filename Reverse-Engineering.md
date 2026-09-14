@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs](https://arxiv.org/abs/2503.07215)| ASE | 2026 | S | V | [CodeInverter](https://github.com/LiuPeiP-CS/CodeInverter) | G |
 | [BinRAG: An RAG-Based Decompilation Framework Fusing Name Prediction and Calling Context](https://conf.researchr.org/details/issta-2026/issta-2026-research-papers/154/BinRAG-An-RAG-Based-Decompilation-Framework-Fusing-Name-Prediction-and-Calling-Conte)| ISSTA | 2026 | S | V |G | D |
 | [FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](https://www.ndss-symposium.org/wp-content/uploads/2026-s989-paper.pdf) | NDSS | 2026 | S | V | [FidelityGPT](https://github.com/ZhouZhiping045/FidelityGPT) | D |
 | [NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery](https://conf.researchr.org/details/icse-2026/icse-2026-research-track/234/NotDec-WebAssembly-Decompilation-With-Inter-Procedural-Type-Recovery) | ICSE | 2026 | - | - | [NotDec](https://github.com/NotDec/NotDec) | [Juliet Test Suite](https://github.com/NIST/juliet-test-suite-c) |
