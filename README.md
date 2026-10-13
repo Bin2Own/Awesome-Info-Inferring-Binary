@@ -4,6 +4,7 @@
 ## Papers
 |    Paper        |    Venue     | Year |     Slide      |       Video      |       Source Code       | Dataset                |
 | :-------------: | :----------: | :--: |  :-----------: | :--------------: | :---------------------: |:---------------------: |
+| [HyBinMAS: LLM-Powered Hybrid Analysis for Function Name Recovery of Stripped Binaries](https://dl.acm.org/doi/10.1145/3832783.3837532) | ASE | 2026 | S | V | [HyBinMAS](https://github.com/Fleabane11/HyBinMAS) | [HyBinMAS](https://doi.org/10.17605/OSF.IO/QZTBE) |
 | [Hieronym: Leveraging Hierarchical Multi-Source Information for Function Renaming in Stripped Binary](https://arxiv.org/abs/2609.12457) | CCS | 2026 | S | V | [Hieronym](https://github.com/NASP-THU/Hieronym) | D |
 | [RecStruct: Recovering Nested Struct Types from Stripped Binaries via Stack-Driven Unification](https://www.usenix.org/system/files/usenixsecurity26-chen-yuxin.pdf) | Usenix Sec | 2026 | S | V | [RecStruct](https://zenodo.org/records/20255916) |  [RecStruct](https://zenodo.org/records/20255916) |
 | [CiRCLE: Recovering Complex Data Structures in Binaries beyond Fragmentation](https://github.com/vul337/CiRCLE/blob/main/sp2026.pdf) | S&P | 2026 | S | V | [CiRCLE](https://github.com/vul337/CiRCLE) | D |
